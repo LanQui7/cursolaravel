@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace LanQui7\Http\Controllers\Auth;
 
-use App\Http\Controllers\Controller;
+use LanQui7\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 
 class LoginController extends Controller

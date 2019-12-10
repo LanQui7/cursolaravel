@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace LanQui7\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
